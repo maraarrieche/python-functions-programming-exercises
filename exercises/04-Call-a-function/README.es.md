@@ -30,7 +30,7 @@ area = calculate_area(3,6)
 
 ## 📝 Instrucciones:
 
-1. Crea nuevas variables llamadas `squareArea1`, `square_area2`, `square_area3` y llama a la función `CalculateArea` 3 veces, un por cada cuadrado en la foto, utilizando las dimensiones de la figura, por ejemplo:
+1. Crea nuevas variables llamadas `square_area1`, `square_area2`, `square_area3` y llama a la función `CalculateArea` 3 veces, un por cada cuadrado en la foto, utilizando las dimensiones de la figura, por ejemplo:
 
 ```python
 # para la primera figura:
